@@ -15,26 +15,14 @@ Here is my skill.
 
 #### Frameworks
 
-- echo
-- gorm
-- React / Next
-- Nestjs
-- Pytorch
+**echo**
 
-<!--
-**pirotyyy/pirotyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=nestjs,react,next,vue,pytorch)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+#### Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform)](https://skillicons.dev)
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pirotyyy&count_private=true&show_icons=true" />
