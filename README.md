@@ -1,5 +1,30 @@
 ### Hi there 👋
 
+I'm software engineer.
+- 👨‍🎓 Bachelor 3, major in computer science.
+- 🔭 I'm currently working as intern at Finatext Holdings.
+- 🌱 I'm currently learning gRPC.
+
+### Skills
+
+Here is my skill.
+
+#### Languages
+
+- Golang
+- TypeScript
+- Python
+- Java
+- C
+
+#### Frameworks
+
+- echo
+- gorm
+- React / Next
+- Nestjs
+- Pytorch
+
 <!--
 **pirotyyy/pirotyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
