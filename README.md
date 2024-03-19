@@ -2,7 +2,7 @@
 
 I'm software engineer.
 - 👨‍🎓 Bachelor 3, major in computer science.
-- 🔭 I'm currently working as intern at Finatext Holdings.
+- 🔭 I'm currently working as intern at Finatext Holdings. (Half year now..)
 - 🌱 I'm currently learning gRPC.
 
 ### Skills
