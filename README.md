@@ -11,11 +11,7 @@ Here is my skill.
 
 #### Languages
 
-- Golang
-- TypeScript
-- Python
-- Java
-- C
+[![My Skills](https://skillicons.dev/icons?i=go,python,js,ts,java,html,css)](https://skillicons.dev)
 
 #### Frameworks
 
