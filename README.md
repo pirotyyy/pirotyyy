@@ -22,6 +22,8 @@ I'm software engineer.
 [![My Skills](https://skillicons.dev/icons?i=aws,terraform)](https://skillicons.dev)
 
 #### Products
+- [Career Canvas](https://github.com/openhacku-team-a)
+    - Hack U 2024 で作成
 - [GopherJP](https://github.com/GopherJP)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
