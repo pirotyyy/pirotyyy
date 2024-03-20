@@ -7,8 +7,6 @@ I'm software engineer.
 
 ### Skills
 
-Here is my skill.
-
 #### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=go,python,js,ts,java,html,css)](https://skillicons.dev)
