@@ -26,6 +26,10 @@ I'm software engineer.
     - Hack U 2024 で作成
 - [GopherJP](https://github.com/GopherJP)
 
+
+### Links
+https://zenn.dev/pirotyyy
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pirotyyy&count_private=true&show_icons=true" />
 </a>
